@@ -81,7 +81,7 @@
         <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-dark  px-4 px-lg-5 py-3 py-lg-0" style="background-color: white;">
                 <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
-                    <img src="img/Logograduation.png" >
+                    <img src="img/Logograduation.png" alt="ideas about home food dishes">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" style="color: #FEA116;">
                     <span class="fa fa-bars"></span>
@@ -111,7 +111,7 @@
 
             <div>
                 <video  autoplay muted loop width="100%" >
-                <source src="img/pexels-shvets-production-7525333-1920x1080-25fps (1).mp4" type="video/mp4">
+                <source src="img/pexels-shvets-production-7525333-1920x1080-25fps (1).mp4" type="video/mp4" alt="ideas about home food dishes">
                 </video>
                     <div class="overlaytext">
                    <h1 id="welcome" class="display-3 mb-3 animated slideInDown">Ghadwa's Gallery </h1>
@@ -119,7 +119,7 @@
                         <br>
                         <div class="container">
 
-                            <h4 style="text-align: center; text-justify: auto; color:ghostwhite;" id="vedio4">You can get an idea about the dishes of the Ghadwa site from the beginning of the opening until now, or you can visit the menu page to view the dishes available now.</h4>
+                            <h4 style="text-align: center; text-justify: auto; color:ghostwhite;" id="vedio4">You can get an idea about Ghadwa's home food dishes from the beginning of the opening until now, or you can visit the menu page to view the dishes available now.</h4>
                     <br>
                     <div  style="text-align: center; ">
                         <a href="Menu.html" class="btn-hero py-sm-3 px-sm-5 me-3 animated slideInLeft " style="background-color: #FEA116; color: white;  border-radius: 60px; font-weight: bold; text-decoration: none; font-size: larger;"  >Visit Menu</a>
@@ -133,7 +133,7 @@
 
         <!-- Navbar & Hero End -->
         <div class="p-5 wow fadeInUp" data-wow-delay="0.2s"  style="text-align: center;">
-            <h3 class="section-title text-center fw-normal" style="color: #f49616;">Gallery & History</h3>
+            <h3 class="section-title text-center fw-normal" style="color: #f49616;">Ideas About Ghadwa's Dishes</h3>
             <p style="font-size: larger;">
                 Our food gallery showcases our delicious and visually stunning dishes, featuring high-quality images that will leave your taste buds watering and your stomach growling.</p>
             </div>
@@ -141,7 +141,7 @@
         <div class="grow">
 <div style="box-sizing: border-box ;">
     <div style="float:left; width: 33.33%; padding: 5px;  " >
-        <img src="img/Meat_products_Mushrooms_Tomatoes_527520_1280x853.jpg" alt="Snow" style="width:100%">
+        <img src="img/Meat_products_Mushrooms_Tomatoes_527520_1280x853.jpg" style="width:100%" alt="meat ideas about home food dishes">
         <div class="d-flex justify-content-between tm-text" style="background-color: rgb(207, 236, 201);">
             <span class="tm-text" style="color: #F49611; font-weight: bold;">Meat with Mushrooms Tomatoes</span>
             <img src="img/stat.png" width="30%" height="25%" style="margin-top: 5px;">
@@ -151,7 +151,7 @@
 </div>
 <div style="box-sizing: border-box ;">
     <div style="float:left; width: 33.33%; padding: 5px;  " >
-        <img src="img/Meat_products_Shashlik_Plate_Two_527410_1280x853.jpg" alt="Snow" style="width:100%">
+        <img src="img/Meat_products_Shashlik_Plate_Two_527410_1280x853.jpg" style="width:100%" alt="meat ideas about home food dishes">
         <div class="d-flex justify-content-between tm-text-gray" style="background-color: rgb(207, 236, 201);">
             <span class="tm-text" style="color: #F49611; font-weight: bold;">Meat with Shashlik Plate</span>
             <img src="img/ss2.png" width="30%" height="25%"  style="margin-top: 5px;">
@@ -160,7 +160,7 @@
 </div>
 <div style="box-sizing: border-box ;">
     <div style="float:left; width: 33.33%; padding: 5px;  " >
-        <img src="img/Roast_Chicken_Berry_Lemons_Plate_583337_1280x853.jpg" alt="Snow" style="width:100%">
+        <img src="img/Roast_Chicken_Berry_Lemons_Plate_583337_1280x853.jpg" style="width:100%" alt="chicken ideas about home food dishes">
         <div class="d-flex justify-content-between tm-text-gray"  style="background-color: rgb(207, 236, 201);">
             <span class="tm-text" style="color: #F49611; font-weight: bold;">Roast Chicken wiPlate</span>
             <img src="img/stat.png" width="30%" height="25%" style="margin-top: 5px;">
@@ -170,7 +170,7 @@
 <br>
 <div style="box-sizing: border-box ;">
     <div style="float:left; width: 33.33%; padding: 5px;  " >
-        <img src="img/Roast_Chicken_French_fries_Vegetables_Plate_518389_1280x882.jpg" alt="Snow" style="width:100%">
+        <img src="img/Roast_Chicken_French_fries_Vegetables_Plate_518389_1280x882.jpg" style="width:100%" alt="chicken ideas about home food dishes">
         <div class="d-flex justify-content-between tm-text-gray"  style="background-color: rgb(207, 236, 201);">
             <span class="tm-text"  style="color: #F49611; font-weight: bold;">Roast Chicken French Fries Plate</span>
             <img src="img/stat.png" width="30%" height="25%" style="margin-top: 5px;">
@@ -179,7 +179,7 @@
 </div>
 <div style="box-sizing: border-box ;">
     <div style="float:left; width: 33.33%; padding: 5px;  " >
-        <img src="img/Roast_Chicken_Spices_Ketchup_Plate_565725_1280x856.jpg" alt="Snow" style="width:100%">
+        <img src="img/Roast_Chicken_Spices_Ketchup_Plate_565725_1280x856.jpg" style="width:100%" alt="chicken ideas about home food dishes">
         <div class="d-flex justify-content-between tm-text-gray "  style="background-color: rgb(207, 236, 201);">
             <span class="tm-text"  style="color: #F49611; font-weight: bold;">Roast Chicken Spices Plate</span>
             <img src="img/stat.png" width="30%" height="25%" style="margin-top: 5px;">
@@ -188,7 +188,7 @@
 </div>
 <div style="box-sizing: border-box ;">
     <div style="float:left; width: 33.33%; padding: 5px;  " >
-        <img src="img/Frikadeller_Salads_Potato_Three_3_583631_1280x853.jpg" alt="Snow" style="width:100%">
+        <img src="img/Frikadeller_Salads_Potato_Three_3_583631_1280x853.jpg" style="width:100%" alt="salad ideas about home food dishes">
         <div class="d-flex justify-content-between tm-text-gray"  style="background-color: rgb(207, 236, 201);">
             <span class="tm-text"  style="color: #F49611; font-weight: bold;">Frikadeller Salads</span>
             <img src="img/ssssss32.png" width="30%" height="25%" style="margin-top: 5px;">
@@ -201,9 +201,9 @@
 
 <div class="grow">
     <div style="box-sizing: border-box ;">
-        <div style="float:left; width: 33.33%; padding: 5px;  " >
-            <img src="img/Soups_Mushrooms_567677_1280x852.jpg" alt="Snow" style="width:100%">
-            <div class="d-flex justify-content-between tm-text-gray" style="background-color: rgb(207, 236, 201);">
+        <div style="float:left; width: 33.33%; padding: 5px;" >
+            <img src="img/Soups_Mushrooms_567677_1280x852.jpg" style="width:100%">
+            <div class="d-flex justify-content-between tm-text-gray" style="background-color: rgb(207, 236, 201);" alt="soup ideas about home food dishes">
                 <span class="tm-text" style="color: #F49611; font-weight: bold;">Mushroom Soup</span>
                 <img src="img/stat.png" width="30%" height="25%"  style="margin-top: 5px;">
             </div>
@@ -211,7 +211,7 @@
     </div>
     <div style="box-sizing: border-box ;">
         <div style="float:left; width: 33.33%; padding: 5px;  " >
-            <img src="img/Salads_Tomatoes_Cucumbers_Dill_Plate_Spoon_590475_1280x853.jpg" alt="Snow" style="width:100%">
+            <img src="img/Salads_Tomatoes_Cucumbers_Dill_Plate_Spoon_590475_1280x853.jpg" style="width:100%" alt="salad ideas about home food dishes">
             <div class="d-flex justify-content-between tm-text-gray" style="background-color: rgb(207, 236, 201);">
                 <span class="tm-text" style="color: #F49611; font-weight: bold;">Salad Tomatoes Cucumbers</span>
                 <img src="img/ss2.png" width="30%" height="25%"  style="margin-top: 5px;">
@@ -220,7 +220,7 @@
     </div>
     <div style="box-sizing: border-box ;">
         <div style="float:left; width: 33.33%; padding: 5px;  " >
-            <img src="img/Fish_Food_Cucumbers_Lemons_Piece_607609_1280x853.jpg" alt="Snow" style="width:100%">
+            <img src="img/Fish_Food_Cucumbers_Lemons_Piece_607609_1280x853.jpg" style="width:100%" alt="fish ideas about home food dishes">
             <div class="d-flex justify-content-between tm-text-gray" style="background-color: rgb(207, 236, 201);">
                 <span class="tm-text" style="color: #F49611; font-weight: bold;">Fish with Lemons Piece</span>
                 <img src="img/ss2.png" width="30%" height="25%"  style="margin-top: 5px;">
@@ -230,7 +230,7 @@
     <br>
     <div style="box-sizing: border-box ;">
         <div style="float:left; width: 33.33%; padding: 5px;  " >
-            <img src="img/Sweets_baklava_605604_1280x850.jpg" alt="Snow" style="width:100%">
+            <img src="img/Sweets_baklava_605604_1280x850.jpg" style="width:100%" alt="dessert ideas about home food dishes">
             <div class="d-flex justify-content-between tm-text-gray" style="background-color: rgb(207, 236, 201);">
                 <span class="tm-text" style="color: #F49611; font-weight: bold;">Baklava</span>
                 <img src="img/stat.png" width="30%" height="25%" style="margin-top: 5px;" >
@@ -239,7 +239,7 @@
     </div>
     <div style="box-sizing: border-box ;">
         <div style="float:left; width: 33.33%; padding: 5px;  " >
-            <img src="img/Pancake_Strawberry_Bananas_Sour_cream_Plate_565768_1280x853.jpg" alt="Snow" style="width:100%">
+            <img src="img/Pancake_Strawberry_Bananas_Sour_cream_Plate_565768_1280x853.jpg" style="width:100%" alt="dessert ideas about home food dishes">
             <div class="d-flex justify-content-between tm-text-gray" style="background-color: rgb(207, 236, 201);">
                 <span class="tm-text" style="color: #F49611; font-weight: bold;">Pancake with Sour cream</span>
                 <img src="img/ss2.png" width="30%" height="25%" style="margin-top: 5px;">
@@ -248,7 +248,7 @@
     </div>
     <div style="box-sizing: border-box ;">
         <div style="float:left; width: 33.33%; padding: 5px;  " >
-            <img src="img/Easter_Kulich_Tulips_Eggs_615563_1280x853.jpg" alt="Snow" style="width:100%">
+            <img src="img/Easter_Kulich_Tulips_Eggs_615563_1280x853.jpg" style="width:100%" alt="dessert ideas about home food dishes">
             <div class="d-flex justify-content-between tm-text-gray" style="background-color: rgb(207, 236, 201);">
                 <span class="tm-text" style="color: #F49611; font-weight: bold;">Kulich Tulips</span>
                 <img src="img/stat.png" width="30%" height="25%" style="margin-top: 5px;">

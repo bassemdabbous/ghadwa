@@ -82,7 +82,7 @@
         <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-dark  px-4 px-lg-5 py-3 py-lg-0" style="background-color: white;">
                 <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
-                    <img src="about/img/Logograduation.png" >
+                    <img src="about/img/Logograduation.png" alt="about ghadwa">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" style="color: #FEA116;">
                     <span class="fa fa-bars"></span>
@@ -140,20 +140,20 @@
             <div class="col-lg-6">
                 <div class="row g-3">
                     <div class="col-6 text-start">
-                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.1s" src="about/img/Kebab.jpg" style="margin-top: 50px;">
+                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.1s" src="about/img/Kebab.jpg" style="margin-top: 50px;" alt="information about ghadwa">
                     </div>
                     <div class="col-6 text-start">
-                        <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.3s" src="about/img/Seafood.jpg" style="margin-top: 50%;">
+                        <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.3s" src="about/img/Seafood.jpg" style="margin-top: 50%;" alt="information about ghadwa">
                     </div>
                     <div class="col-6 text-end">
-                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.7s" src="about/img/Basmati Rice.jpg" style="margin-top: -180px;">
+                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.7s" src="about/img/Basmati Rice.jpg" style="margin-top: -180px;" alt="information about ghadwa">
                     </div>
                     <div class="col-6 text-end">
-                        <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.5s" src="about/img/Fresh Juices.jpg" style="margin-right: 80px;">
+                        <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.5s" src="about/img/Fresh Juices.jpg" style="margin-right: 80px;" alt="information about ghadwa">
                     </div>
 
                     <div class="col-6 text-start">
-                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.1s" src="about/img/Salad.jpg" style="margin-top: -120px;">
+                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.1s" src="about/img/Salad.jpg" style="margin-top: -120px;" alt="information about ghadwa">
                     </div>
                 </div>
             </div>
@@ -187,7 +187,7 @@
         <div class="row g-5 align-items-center">
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                 <div class="about-img position-relative overflow-hidden p-5 pe-0">
-                    <img class="img-fluid w-100" src="about/img/multiple dishes.jpg" style="border-radius: 10px;">
+                    <img class="img-fluid w-100" src="about/img/multiple dishes.jpg" style="border-radius: 10px;" alt="all types of dishes about ghadwa">
                 </div>
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -229,7 +229,7 @@
         <div class="row g-4">
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="bg-white text-center h-100 p-4 p-xl-5" style="border-radius: 10px;">
-                    <img class="img-fluid mb-4" src="about/img/facebook.png" alt="facebook of ghadwa" width="100px" height="100px">
+                    <img class="img-fluid mb-4" src="about/img/facebook.png" alt="facebook of ghadwa" width="100px" height="100px" alt="facebook about ghadwa">
                     <h4 class="mb-3 fit">Facebook Page</h4><br><br>
                     <p class="mb-4 visit">Visit Ghadwa's Facebook page to find our new posts as well as to contact us if you prefer socail media contact method</p>
                     <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="https://www.facebook.com/Ghadwaa">Visit Now</a>
@@ -237,7 +237,7 @@
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="bg-white text-center h-100 p-4 p-xl-5" style="border-radius: 10px;">
-                    <img class="img-fluid mb-4" src="about/img/instagram.png" alt="instagram of ghadwa" width="100px" height="100px">
+                    <img class="img-fluid mb-4" src="about/img/instagram.png" alt="instagram of ghadwa" width="100px" height="100px" alt="instagram out ghadwa">
                     <h4 class="mb-3 fit">Instagram Page</h4><br><br>
                     <p class="mb-4 visit">Checkout Ghadwa's Instagram page to find out and know all of our newest dishes and, also you can find our home chefs names</p>
                     <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="https://www.instagram.com/8adwa/">Visit Now</a>
@@ -245,7 +245,7 @@
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="bg-white text-center h-100 p-4 p-xl-5" style="border-radius: 10px;">
-                    <img class="img-fluid mb-4" src="about/img/telegram.png" alt="telegram of ghadwa" width="100px" height="100px">
+                    <img class="img-fluid mb-4" src="about/img/telegram.png" alt="telegram of ghadwa" width="100px" height="100px" alt="telegram about ghadwa">
                     <h4 class="mb-3 fit">Telegram Channel</h4><br><br>
                     <p class="mb-4 visit">Join now Ghadwa's telegram channel  and communicate with other users to share your experience about Ghadwa</p>
                     <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="https://t.me/+ayBfykx6k-djYjA0">Visit Now</a>

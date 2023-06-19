@@ -7,7 +7,13 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
+    <script>
+        function redirectFcuntion() {
+            setTimeout(function () {
+   window.location.href= window.location.origin+'/cart'; // the redirect goes here
 
+},4000);}
+    </script>
     <!-- Favicon -->
     <link href="img/Logograduation.png" rel="icon">
 
@@ -202,7 +208,13 @@
     				</div>
                     <br>
                     @if($carts)
-    				<p style="text-align: center;"><a href="Check Out.html" class="btn-hero py-sm-3 px-sm-5 me-3 animated slideInLeft " style="background-color: #FEA116; color: white;  border-radius: 60px; font-weight: bold; text-decoration: none; font-size: larger;"  >Check Out</a></p>
+                    <form action="{{ route('checkout.action') }}" method="POST">
+                        @csrf
+                    <button type="submit" onclick="redirectFcuntion()" class="btn-hero py-sm-3 px-sm-5 me-3 animated slideInLeft " style="background-color: #045607; color: white;  border-radius: 60px; font-weight: bold; text-decoration: none; font-size: larger;">
+                        Checkout
+                    </button>
+                </form>
+                {{-- <p style="text-align: center;"><a href="{{ url('checkout') }}" class="btn-hero py-sm-3 px-sm-5 me-3 animated slideInLeft " style="background-color: #045607; color: white;  border-radius: 60px; font-weight: bold; text-decoration: none; font-size: larger;"  >Check Out</a></p> --}}
                     @endif
                 </div>
     		</div>

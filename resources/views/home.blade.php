@@ -79,7 +79,7 @@
         <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-dark  px-4 px-lg-5 py-3 py-lg-0" style="background-color: white;">
                 <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
-                    <img src="img/Logograduation.png" >
+                    <img src="img/Logograduation.png" alt="home made food delivery logo">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" style="color: #FEA116;">
                     <span class="fa fa-bars"></span>
@@ -123,7 +123,7 @@
 
                         </div>
                         <div class="col-lg-6 text-center text-lg-end overflow-hidden">
-                            <img class="img-fluid" src="img/herooo.png" alt="">
+                            <img class="img-fluid" src="img/herooo.png" alt="grilled home made food delivery">
                         </div>
                     </div>
                 </div>
@@ -138,16 +138,16 @@
                     <div class="col-lg-6">
                         <div class="row g-3">
                             <div class="col-6 text-start">
-                                <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.1s" src="img/23302_1407201846_0.jpg">
+                                <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.1s" src="img/23302_1407201846_0.jpg" alt="cheesy chicken of ghadwa home made food delivery">
                             </div>
                             <div class="col-6 text-start">
-                                <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.3s" src="img/image_64.jpg" style="margin-top: 25%;">
+                                <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.3s" src="img/image_64.jpg" style="margin-top: 25%;" alt="salad of ghadwa home made food delivery">
                             </div>
                             <div class="col-6 text-end">
-                                <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.5s" src="img/top-view-table-full-delicious-food-compositionmlml.jpg">
+                                <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.5s" src="img/top-view-table-full-delicious-food-compositionmlml.jpg" alt="chicken and salad of ghadwa home made food delivery">
                             </div>
                             <div class="col-6 text-end">
-                                <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.7s" src="img/,lm l.jpg">
+                                <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.7s" src="img/,lm l.jpg" alt="sweets and dessert of ghadwa home made food delivey">
                             </div>
                         </div>
                     </div>
@@ -186,7 +186,7 @@
 
                         <div class="p-5 wow fadeInUp" data-wow-delay="0.2s"  style="text-align: center;">
                             <h5 class="section-title text-center fw-normal" style="color: #f49616;">Reservation</h5>
-                            <h1  class="display-5 text-black mb-3 visit">Customize Your Order</h1>
+                            <h1  class="display-5 text-black mb-3 visit">Customize Your Home Food Delivery Order</h1>
                             <div class="col-12" >
                                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3qv2atIW0Bq6BUjc54fPgmlR4k3jsgKYRvveRtTcl-hwz0Q/viewform">  <button class="btn  w-100 py-3" type="submit" style="background-color: #f49611; color: white; font-weight: bold; ">Customize Your Order</button></a>
                                </div>
@@ -204,7 +204,7 @@
             <div class="container">
                 <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                     <h5 class="section-title text-center fw-normal" style="color: #f49616;">Food Menu</h5>
-                    <h1 class="display-5 text-black mb-3 visit"">Our Special Meals</h1>
+                    <h1 class="display-5 text-black mb-3 visit" >Our Special Home Food Meals</h1>
                 </div>
                 <div class="tab-class text-center wow fadeInUp" data-wow-delay="0.1s">
 
@@ -225,7 +225,7 @@
 
                                 <div class="col-lg-12">
                                     <div class="d-flex align-items-center">
-                                        <img class="flex-shrink-0 img-fluid rounded" src="{{$product->image_path}}" alt="" style="width: 100px; height: 80px;">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="{{$product->image_path}}" alt="home made food delivery products" style="width: 100px; height: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
                                                 <span style="color: #F49611;">{{$product->name}}
@@ -260,11 +260,11 @@
         <div class="container-xxl py-5 px-0 wow fadeInUp" data-wow-delay="0.1s">
             <div class="row g-0">
                 <div class="col-md-6">
-                    <img src="img/pexels-andrea-piacquadio-3769999.jpg" height="100%" width="100%">
+                    <img src="img/pexels-andrea-piacquadio-3769999.jpg" height="100%" width="100%" alt=" join home made food delivery chefs">
                 </div>
                 <div class="col-md-6  d-flex align-items-center" style="background-color:gainsboro;">
                     <div class="p-5 wow fadeInUp" data-wow-delay="0.2s">
-                        <h5 class="section-title  text-start fw-normal" style="color: #F49611;">Be One of Ghadwa Family</h5>
+                        <h5 class="section-title  text-start fw-normal" style="color: #F49611;">Be One of Ghadwa's Home Made Food Family</h5>
                         <h4 class="mb-4 text-white" style="font-weight:normal;">If you are a home chef and you want to start your business or to promote your food, so you can be one of Ghadwa family after filling this form then we will send you an email to contact you. </h4>
                         <br>
                          <h5>Harry up to fill this form below!</h5>

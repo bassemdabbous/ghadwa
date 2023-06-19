@@ -8,6 +8,9 @@ use Hash;
 use Session;
 use App\Models\User;
 use App\Models\Product;
+use PDF;
+use Carbon\Carbon;
+
 
 class CartController extends Controller
 {
@@ -57,5 +60,25 @@ class CartController extends Controller
     public function deleteFromCart(Request $request){
         Cart::where('id',$request->cart_id)->delete();
         return redirect()->intended('cart');
+    }
+
+    public function checkout(Request $request){
+        if(Auth::check()){
+            $userId =Auth::user()->id;
+
+            $carts = Cart::where('user_id',$userId)->get();
+            if(!$carts){
+                return view('cart');
+            }
+            $user = User::find($userId);
+            $new_carts = $this->getProductsDetails($carts);
+            $total = $this->calculateTotal($new_carts);
+            $dt = Carbon::now();
+            $pdf = PDF::loadView('invoice', ["carts"=>$new_carts, "total"=>$total, "user" => $user, "date"=> $dt->toFormattedDateString()]);
+            Cart::where('user_id',$userId)->delete();
+            return $pdf->download($dt->toFormattedDateString().'_Ghdwa_invoice.pdf');
+        }else{
+            return redirect()->intended('signup');
+        }
     }
 }

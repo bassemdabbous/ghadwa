@@ -82,7 +82,7 @@
         <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-dark  px-4 px-lg-5 py-3 py-lg-0" style="background-color: white;">
                 <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
-                    <img src="contact/img/Logograduation.png" >
+                    <img src="contact/img/Logograduation.png" alt="contact ghadwa home food">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" style="color: #FEA116;">
                     <span class="fa fa-bars"></span>
@@ -123,7 +123,7 @@
             <br>
             <br>
             <div class="container">
-                <h4 style="text-align: center; text-justify: auto; color: white;">Feel free to contact us if you have any issue with your order, or even if you have any recommendations to help us be more efficient, effective and increase our customer service efficiency.</h4><br>
+                <h4 style="text-align: center; text-justify: auto; color: white;">Feel free to contact us if you have any issue with your order, or even if you have any recommendations to help Ghadwa customer service team be more efficient, effective and increase our customer service efficiency.</h4><br>
                 <div  style="text-align: center; ">
                     <a class="btn btn-lg rounded-pill " href="#connect" style="text-align: center; background-color:#FEA116 ;color: white; " >Social Media</a><br><br><br><br>
                 </div>
@@ -143,7 +143,7 @@
                 </div>
                 <div class="container wow fadeIn" data-wow-delay="0.5s">
                     <video width="320" height="240" style="float: left; width: 45%; height: 335px; border-radius: 10px; margin-top: -210px; left: 3.5%; position: relative;" controls >
-                        <source src="contact/img/Customer Service.mp4" type="video/mp4">
+                        <source src="contact/img/Customer Service.mp4" type="video/mp4" alt="how to contact ghadwa home food">
                         Your browser does not support the video tag.
                       </video>
                     <form style="margin-top: -200px; float: right; position: relative; width: 50%;">
@@ -173,7 +173,7 @@
         <div class="row g-5 align-items-center">
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                 <div class="about-img position-relative overflow-hidden p-5 pe-0">
-                    <img class="img-fluid w-100" src="contact/img/Pizza.jpg" style="border-radius: 10px; margin-top: -50px;">
+                    <img class="img-fluid w-100" src="contact/img/Pizza.jpg" style="border-radius: 10px; margin-top: -50px;" alt="contact ghadwa home food">
                 </div>
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -211,7 +211,7 @@
     <div class="container">
         <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
             <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-            <h1 class="display-5 mb-3 contact" style="font-family: sans-serif;">Connect With Us</h1>
+            <h1 class="display-5 mb-3 contact" style="font-family: sans-serif;">Ghadwa Social Media</h1>
             <div id="connect"></div>
             <p class="feel" style="font-family: sans-serif; text-align: center;">Feel free to share your experience with us. Or if you have an opinion or suggestion you can visit Ghadwa's contact us page or directly find us on social media.</p>
         </div>
@@ -219,7 +219,7 @@
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="bg-white text-center h-100 p-4 p-xl-5">
                     <img class="img-fluid mb-4" src="contact/img/facebook.png" alt="facebook of ghadwa" width="100px" height="100px">
-                    <h4 class="mb-3 fit" style="font-family: sans-serif;">Facebook Page</h4><br><br>
+                    <h4 class="mb-3 fit" style="font-family: sans-serif;">Ghadwa's Facebook</h4><br><br>
                     <br><br><br><br> <p class="mb-4 visit" style="font-family: sans-serif;">Visit Ghadwa's Facebook page to find our new posts as well as to contact us if you prefer socail media contact method.</p>
                    <br> <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="https://www.facebook.com/Ghadwaa">Visit Now</a>
                 </div>
@@ -227,7 +227,7 @@
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="bg-white text-center h-100 p-4 p-xl-5">
                     <img class="img-fluid mb-4" src="contact/img/instagram.png" alt="instagram of ghadwa" width="100px" height="100px">
-                    <h4 class="mb-3 fit" style="font-family: sans-serif;">Instagram Page</h4><br><br><br>
+                    <h4 class="mb-3 fit" style="font-family: sans-serif;"> Ghadwa's Instagram</h4><br><br><br>
                     <br><br><br><br><p class="mb-4 visit" style="font-family: sans-serif;">Checkout Ghadwa's Instagram page to find out and know all of our newest dishes and, also you can find our home chefs names.</p>
                     <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="https://www.instagram.com/8adwa/" >Visit Now</a>
                 </div>
@@ -235,7 +235,7 @@
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="bg-white text-center h-100 p-4 p-xl-5">
                     <img class="img-fluid mb-4" src="contact/img/telegram.png" alt="telegram of ghadwa" width="100px" height="100px">
-                    <h4 class="mb-3 fit" style="font-family: sans-serif;">Telegram Channel</h4><br><br>
+                    <h4 class="mb-3 fit" style="font-family: sans-serif;">Ghadwa's Telegram</h4><br><br>
                     <br><br><br><br> <p class="mb-4 visit" style="font-family: sans-serif;">Join now Ghadwa's telegram channel  and communicate with other users to share your experience about Ghadwa.</p>
                     <br><a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="https://t.me/+ayBfykx6k-djYjA0">Visit Now</a>
                 </div>

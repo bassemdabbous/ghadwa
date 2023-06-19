@@ -81,7 +81,7 @@
         <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-dark  px-4 px-lg-5 py-3 py-lg-0" style="background-color: white;">
                 <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
-                    <img src="img/Logograduation.png" >
+                    <img src="img/Logograduation.png" alt="home made food menu of ghadwa">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" style="color: #FEA116;">
                     <span class="fa fa-bars"></span>
@@ -111,10 +111,10 @@
 
             <div>
                 <video  autoplay muted loop width="100%" >
-                <source src="img/pexels-bonus-studio-5032156-1920x1080-50fps.mp4" type="video/mp4">
+                <source src="img/pexels-bonus-studio-5032156-1920x1080-50fps.mp4" type="video/mp4" alt=" grilled meat of home made food menu">
                 </video>
                     <div class="overlaytext">
-                   <h1 id="welcome" class="display-3 mb-3 animated slideInDown">Ghadwa's Menu Food</h1>
+                   <h1 id="welcome" class="display-3 mb-3 animated slideInDown">Ghadwa's Home Made Food Menu</h1>
                         <br>
                         <br>
                         <div class="container">
@@ -129,7 +129,7 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6">
                         <h5 class="section-title text-start  fw-normal" style="color: #FEA116;">Offers</h5>
-                        <h1 class="mb-4">Ghadwa's Best Offers</h1>
+                        <h1 class="mb-4">Ghadwa's Home Food Best Offers</h1>
                         <p >Our clients are very speacial for us, so you can enjoy the latest discounts and offers or enjoy by Ghadwa's speacial menu.You can visit our gallery to show our delicious dishes history if you are interested.
                            <br>
 
@@ -159,16 +159,16 @@
                     <div class="col-lg-6">
                         <div class="row g-3">
                             <div class="col-6 text-start">
-                                <img class=" w-100 wow fadeInUp" data-wow-delay="0.1s" src="img/Black Simple Food Instagram Post.png">
+                                <img class=" w-100 wow fadeInUp" data-wow-delay="0.1s" src="img/Black Simple Food Instagram Post.png" alt="home made food menu offers">
                             </div>
                             <div class="col-6 text-start">
-                                <img class=" w-100 wow fadeInUp" data-wow-delay="0.5s" src="img/Brown Minimalist Ramadhan Special Offer Food Instagram Post.png" >
+                                <img class=" w-100 wow fadeInUp" data-wow-delay="0.5s" src="img/Brown Minimalist Ramadhan Special Offer Food Instagram Post.png" alt="home made food menu special offers">
                             </div>
                             <div class="col-6 text-end">
-                                <img class=" w-100 wow fadeInUp" data-wow-delay="0.7s" src="img/Brown Traditional Food Promo Instagram Post.png">
+                                <img class=" w-100 wow fadeInUp" data-wow-delay="0.7s" src="img/Brown Traditional Food Promo Instagram Post.png" alt="home made food menu ramadan offers">
                             </div>
                             <div class="col-6 text-end">
-                                <img class=" w-100 wow fadeInUp" data-wow-delay="0.9s" src="img/food menu instagram post template.png">
+                                <img class=" w-100 wow fadeInUp" data-wow-delay="0.9s" src="img/food menu instagram post template.png" alt="home made food menu eid offers">
                             </div>
                         </div>
                     </div>
@@ -180,14 +180,14 @@
        <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-                <h5 class="section-title  text-center  fw-normal" style="color: #f49611;">Food Menu</h5>
-                <h1 class="mb-5">Our Famous Food</h1>
+                <h5 class="section-title  text-center  fw-normal" style="color: #f49611;">Ghadwa's Menu</h5>
+                <h1 class="mb-5">Ghadwa's Famous Home Made Food</h1>
             </div>
             <div class="tab-class text-center wow fadeInUp" data-wow-delay="0.1s">
                 <ul class="nav nav-pills d-inline-flex justify-content-center border-bottom mb-5">
                     <li class="nav-item" >
                         <a class="d-flex align-items-center text-start mx-3 pb-3" data-bs-toggle="pill" href="#tab-1" style="text-decoration-line: none;">
-                            <img src="img/app.jpg" width="35px" height="35px">
+                            <img src="img/app.jpg" width="35px" height="35px" alt="home made food menu appetizers">
                             <div class="ps-3" >
                                 <small class="text-body">Yummy</small>
                                 <div id="item">
@@ -198,7 +198,7 @@
                     </li>
                     <li class="nav-item" >
                         <a class="d-flex align-items-center text-start mx-3 pb-3" data-bs-toggle="pill" href="#tab-2" style="text-decoration-line: none;">
-                            <img src="img/soup.jpg" width="35px" height="35px">
+                            <img src="img/soup.jpg" width="35px" height="35px" alt="home made food menu soups">
                             <div class="ps-3" >
                                 <small class="text-body">Hot</small>
                                 <div id="item">
@@ -209,7 +209,7 @@
                     </li>
                     <li class="nav-item" >
                         <a class="d-flex align-items-center text-start mx-3 pb-3" data-bs-toggle="pill" href="#tab-3" style="text-decoration-line: none;">
-                            <img src="img/salad.jpg" width="35px" height="35px">
+                            <img src="img/salad.jpg" width="35px" height="35px" alt="home made food menu salad">
                             <div class="ps-3" >
                                 <small class="text-body">Fresh</small>
                                 <div id="item">
@@ -220,7 +220,7 @@
                     </li>
                     <li class="nav-item" >
                         <a class="d-flex align-items-center text-start mx-3 pb-3" data-bs-toggle="pill" href="#tab-4" style="text-decoration-line: none;">
-                            <img src="img/main.jpg" width="35px" height="35px">
+                            <img src="img/main.jpg" width="35px" height="35px" altt="home made food menu main dishes">
                             <div class="ps-3" >
                                 <small class="text-body">Main</small>
                                 <div id="item">
@@ -231,7 +231,7 @@
                     </li>
                     <li class="nav-item" >
                         <a class="d-flex align-items-center text-start mx-3 pb-3" data-bs-toggle="pill" href="#tab-5" style="text-decoration-line: none;">
-                            <img src="img/ds.jpg" width="30px" height="30px">
+                            <img src="img/ds.jpg" width="30px" height="30px" alt="home made food menu desserts">
                             <div class="ps-3" >
                                 <small class="text-body">Yummy</small>
                                 <div id="item">
@@ -247,7 +247,7 @@
                         <div class="row g-4">
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app1.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app1.PNG" alt="caremelised french onion of home made food menu appetizers" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Caramelised French Onion <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -263,7 +263,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app2.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app2.PNG" alt="crumbed eggplant of home made food menu appetizers" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Crumbed Eggplant <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -279,7 +279,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app3.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app3.PNG" alt="torta caprese of home made food menu appetizers" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Torta Caprese <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -295,7 +295,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app4.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app4.PNG" alt="prawns of home made food menu appetizers" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Prawns <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -311,7 +311,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app5.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app5.PNG" alt="smoked cups of home made food menu appetizers" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Smoked Cups <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -327,7 +327,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app6.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app6.PNG" alt="smashed pea of home made food menu appetizers" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Smashed Pea <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -344,7 +344,7 @@
 
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app7.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app7.PNG" alt="grilled zucchini of home made food menu appetizers" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Grilled Zucchini <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -360,7 +360,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app9.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app9.PNG" alt="mini pumpkin of home made food menu appetizers" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Mini Pumpkin<a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -376,10 +376,10 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app10.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app10.PNG" alt="loaded hummes of home made food menu appetizers" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
-                                            <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Mini Pumpkin</a> <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
+                                            <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Loaded Hummus</a> <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
                                                 <a href="#"><i class="fa-solid fa-circle-plus " style="color: #f49611;"></i> </a>
                                             </span>
                                             <span  style="color:#039c06;">50 L.E</span>
@@ -392,7 +392,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app11.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/app11.PNG" alt="vegetarian bolognaise pies of home made food menu appetizers" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Vegetarian Bolognaise Pies</a> <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -408,7 +408,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/Screenshot 2023-01-04 013502.jpg" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/Screenshot 2023-01-04 013502.jpg" alt="mahshy of home made food menu appetizers" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span style="color: #F49611;">Mix of stuffed vegetables <a href="#"><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -425,11 +425,12 @@
                             </div>
                         </div>
                     </div>
+                    <!--Appetizers end-->
                     <div id="tab-2" class="tab-pane fade show p-0">
                         <div class="row g-4">
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/s1.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/s1.PNG" alt="chicken soup of home made food menu soups" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Chicken Soup</a> <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -445,7 +446,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/s2.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/s2.PNG" alt="taco soup of home made food menu soups" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Taco Soup</a> <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -461,7 +462,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/s3.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/s3.PNG" alt="cramy mushroom of home made food menu soups" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Creamy Mushroom</a> <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -477,7 +478,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/s4.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/s4.PNG" alt="creamy tuscan of home made food menu soups" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Creamy Tuscan</a> <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -493,7 +494,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/s5.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/s5.PNG" alt="beef stroganoff of home made food menu soups" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Beef Stroganoff Soup <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -509,11 +510,14 @@
                             </div>
                         </div>
                     </div>
+
+                    <!--Soups End-->
+
                     <div id="tab-3" class="tab-pane fade show p-0">
                         <div class="row g-4">
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/sa1.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/sa1.PNG" alt="dumpling salad of home made food menu salads" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Dumpling Salad <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -529,7 +533,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/sa2.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/sa2.PNG" alt="mediterranean salad of home made food menu salads" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Mediterranean Chickpea Salad <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -545,7 +549,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/sa3.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/sa3.PNG" alt="tandoori salad of home made food menu salads" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Tandoori Salad <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -561,7 +565,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/sa4.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/sa4.PNG" alt="chickpeo and olive salad of home made food menu salad" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Chickpea and Olive Salad <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -577,7 +581,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/sa5.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/sa5.PNG" alt="healthy chicken salad of home made food menu salads" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Healthy Chicken Salad<a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -593,7 +597,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/sa6.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/sa6.PNG" alt="orange and fennel salad of home made food menu salads" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Orange and Fennel Salad<a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -612,12 +616,13 @@
                         </div>
                     </div>
 
+                    <!--Salad End-->
 
                     <div id="tab-4" class="tab-pane fade show p-0">
                         <div class="row g-4">
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/yhy.jpg" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/yhy.jpg" alt="grilled meat of home made food menu main dishes" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span style="color: #F49611;">Grilled Meat <a href="#"><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -634,7 +639,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma11.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma11.PNG" alt="koshari of home made food menu main dishes" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span style="color: #F49611;">Koshari<a href="#"><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -650,7 +655,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma7.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma7.PNG" alt="messa'a of home made food menu main dishes" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span style="color: #F49611;">Messa’a <a href="#"><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -666,7 +671,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma8.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma8.PNG" alt="bamia of home made food menu main dishes" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span style="color: #F49611;">Bamia<a href="#"><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -682,7 +687,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma9.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma9.PNG" alt="macaroni bechamel of home made food menu main dishes" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span style="color: #F49611;">Macaroni Béchamel<a href="#"><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -698,7 +703,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma10.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma10.PNG" alt="hamam mahshi of home made food menu main dishes" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span style="color: #F49611;">Hamam Mahshi<a href="#"><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -715,7 +720,7 @@
 
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/dsc_4339.webp" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/dsc_4339.webp" alt="healthy chicken strips of home made food menu main dishes" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span style="color: #F49611;">Healthy Chicken Strips <a href="#"><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -732,7 +737,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/fgg.jpg" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/fgg.jpg" alt="chicken grill of home made food menu main dishes" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span style="color: #F49611;">Chicken Grill <a href="#"><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -748,7 +753,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/shrimps.jpg" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/shrimps.jpg" alt="butter shrimp of home made food menu main dishes" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span style="color: #F49611;">Butter Shrimp <a href="#"><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -764,7 +769,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma2.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma2.PNG" alt="pistachio dukkah of home made food menu main dishes" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span style="color: #F49611;">Pistachio Dukkah <a href="#"><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -780,7 +785,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma3.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma3.PNG" alt="kebda of home made food menu main dishes" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span style="color: #F49611;">Kebda <a href="#"><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -796,7 +801,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma5.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma5.PNG" alt="fatta of home made food menu main dishes" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span style="color: #F49611;">Fatta <a href="#"><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -812,7 +817,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma6.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/ma6.PNG" alt="hawawshi of home made food menu main dishes" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span style="color: #F49611;">Hawawshi <a href="#"><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -831,12 +836,13 @@
                         </div>
                     </div>
 
+                    <!--Main Dishes End-->
 
                     <div id="tab-5" class="tab-pane fade show p-0">
                         <div class="row g-4">
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/d1.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/d1.PNG" alt="frosted white chocolate of home made food menu deserts" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Frosted White Chocolate</a> <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -852,7 +858,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/d2.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/d2.PNG" alt="steamed carrot pudding of home made food menu deserts" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Steamed Carrot Pudding</a> <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -868,7 +874,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/d3.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/d3.PNG" alt="french apple tart of home made food menu deserts" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >French Apple Tart</a> <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -884,7 +890,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/d4.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/d4.PNG" alt="apple cinnamon cake of home made food menu deserts" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Apple Cinnamon Cake</a> <a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -900,7 +906,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/d5.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/d5.PNG" alt="pistachio eclairs of home made food menu deserts" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Pistachio Eclairs<a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -916,7 +922,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="img/d6.PNG" alt="" style="width: 100px; height: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded" src="img/d6.PNG" alt="pear and almond pavlova of home made food menu deserts" style="width: 100px; height: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2"  >
                                             <span style="color: #F49611;"> <a style="color: #f49611;  text-decoration: none;" >Pear & Almond Pavlova<a href=""><i class="fa-solid fa-circle-minus " style="color: #f49611; margin-left: 10px;"></i></a>
@@ -1002,7 +1008,7 @@
 
                             <div class="p-5 wow fadeInUp" data-wow-delay="0.2s"  style="text-align: center;">
                                 <h5 class="section-title text-center fw-normal" style="color: #f49616;">Reservation</h5>
-                                <h1 class="mb-4"  style="text-align: center;">Customise Your Order</h1>
+                                <h1 class="mb-4"  style="text-align: center;">Customise Your Home Food Delivey Order</h1>
                                 <form>
                                     <div class="row g-3">
                                         <div class="col-md-6">

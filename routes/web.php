@@ -57,6 +57,7 @@ Route::get('/', [MainController::class, 'index'])->name('home');
 
 Route::get('cart', [CartController::class, 'getCart'])->name('cart');
 Route::post('addToCart', [CartController::class, 'addToCart'])->name('addToCart.action');
+Route::post('checkout', [CartController::class, 'checkout'])->name('checkout.action');
 Route::post('deleteFromCart', [CartController::class, 'deleteFromCart'])->name('deleteFromCart.action');
 
 
