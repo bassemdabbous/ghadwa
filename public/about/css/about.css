@@ -1,0 +1,227 @@
+/********** Template CSS **********/
+
+.py-6 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.bg-icon {
+    background: url(../img/icons\ back.png) center center repeat;
+    background-size: contain;
+}
+
+/*** Button ***/
+.btn {
+    font-weight: 500;
+    transition: .5s;
+}
+
+.btn.btn-primary,
+.btn.btn-secondary,
+.btn.btn-outline-primary:hover,
+.btn.btn-outline-secondary:hover {
+    color: #FFFFFF;
+}
+
+.btn-square {
+    width: 38px;
+    height: 38px;
+}
+
+.btn-sm-square {
+    width: 32px;
+    height: 32px;
+}
+
+.btn-lg-square {
+    width: 48px;
+    height: 48px;
+}
+
+.btn-square,
+.btn-sm-square,
+.btn-lg-square {
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: normal;
+}
+
+/*** Header ***/
+.carousel-caption {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: start;
+    z-index: 1;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 15%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 3rem;
+    height: 3rem;
+    background-color: var(--primary);
+    border: 10px solid var(--primary);
+    border-radius: 3rem;
+}
+
+@media (max-width: 768px) {
+    #header-carousel .carousel-item {
+        position: relative;
+        min-height: 450px;
+    }
+    
+    #header-carousel .carousel-item img {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
+.page-header {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url(../img/donuts.jpg) top right no-repeat;
+    background-size: cover;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    color: #999999;
+}
+
+.headcap{
+    font-family: sans-serif;
+    max-width: 20%;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+.head{
+    margin-top: -60px;
+    font-family: sans-serif;
+    color: orange;
+    font-weight: bold;
+}
+
+.headcapghadwa{
+    color: orange;
+    text-decoration: none;
+}
+
+.headcapghadwa:hover{
+    color: green;
+}
+
+.whatghadwa{
+    font-family: sans-serif;
+    text-align: justify;
+    text-transform: capitalize;
+    color: black;
+    font-weight: bold;
+}
+
+.whatghadwa1{
+    font-family: sans-serif;
+    line-height: 170%;
+    text-align: justify;
+}
+
+.btn-primary{
+    background-color: orange;
+    border: 1px white solid;
+    font-family: sans-serif;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.btn-primary:hover{
+    background-color: green;
+    border: 1px white solid;
+}
+
+.visit{
+    margin-top: -60px;
+    font-family: sans-serif;
+}
+
+.visit1{
+    font-family: sans-serif;
+    font-size: larger;
+    line-height: 150%;
+    text-align: justify;
+}
+
+.btn-secondary{
+    background-color: orange;
+    border: 1px orange solid;
+    font-weight: bold;
+    font-size: large;
+}
+
+.btn-secondary:hover{
+    background-color: green;
+    color: white;
+}
+
+.feel{
+    font-family: sans-serif;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.btn-outline-primary{
+    background-color: orange;
+    color: white;
+    font-family: sans-serif;
+    border: 1px solid orange;
+}
+
+.btn-outline-primary:hover{
+    background-color: green;
+    border: 1px solid green;
+}
+
+.contact{
+    color: orange;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menvisitback{
+    width: 100%;
+    height: 350px;
+    background-image: url(../img/pasta.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.fit{
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.text-orange{
+    color: black;
+    font-family: sans-serif;
+}
+
+.text-orange1{
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+}

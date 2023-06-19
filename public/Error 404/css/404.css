@@ -1,0 +1,20 @@
+.tit{
+    font-family: sans-serif;
+    color: black;
+    font-weight: bold;
+}
+
+.tit1{
+    font-family: sans-serif;
+    color: black;
+}
+
+.btn-primary{
+    background-color: green;
+    border: 1px solid green;
+}
+
+.btn-primary:hover{
+    background-color: orange;
+    border: 1px solid orange;
+}
